@@ -1,3 +1,3 @@
-# email_vaildation_Spring
+# email_verification_Spring
 registration
 verification
